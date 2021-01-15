@@ -2,7 +2,7 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## It doesn't do anything at all
 
 FEATURES PLACEHOLDER
 
